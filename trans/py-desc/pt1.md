@@ -1,4 +1,4 @@
-# 零件标注描述符
+# 第一部分：关于描述符
 
 About Descriptors
 

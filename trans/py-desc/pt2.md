@@ -1,4 +1,4 @@
-# 第二部分制作描述符
+# 第二部分：制作描述符
 
 Making Descriptors
 
