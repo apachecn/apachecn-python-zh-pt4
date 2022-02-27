@@ -1,3 +1,4 @@
++   [PyGTK 开发基础知识](README.md)
 +   [一、入门指南](01.md)
 +   [二、`Application`和`ApplicationWindow`类](02.md)
 +   [三、一些简单的 GTK+ 应用](03.md)
@@ -12,4 +13,3 @@
 +   [十二、自定义小部件](12.md)
 +   [十三、更多 GTK 部件](13.md)
 +   [十四、整合一切](14.md)
-+   [PyGTK 开发基础知识](README.md)
